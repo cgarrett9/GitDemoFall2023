@@ -1,6 +1,6 @@
 # Git Demo: Christopher Garrett
 
-Actually Learning Git
+Actually Learning Git!!!!!!!!
 
 Gonna learn some cool stuff
 
@@ -10,3 +10,7 @@ Gonna learn some cool stuff
 - git push
 - git clone
 - git push
+
+## Cool Stuff
+
+- learning branching
